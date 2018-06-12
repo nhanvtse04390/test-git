@@ -1,5 +1,0 @@
-<<<<<<< HEAD
-revert test
-=======
-lyta
->>>>>>> parent of 497e147... sua thanh nhandeptrai
