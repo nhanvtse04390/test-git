@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-nhandeptrai
-=======
-halo
->>>>>>> parent of c17e629... ly ta
+revert test
